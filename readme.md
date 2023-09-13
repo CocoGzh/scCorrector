@@ -1,0 +1,1 @@
+scCorrect: Integrating single-cell data from various studies without sample labels
