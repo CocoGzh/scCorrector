@@ -2,4 +2,3 @@ analysis/
 .git/
 .idea/
 __pycache__/
-*.ipynb
