@@ -14,8 +14,7 @@ different studies, which greatly expands the narrow range of genes covered by ME
 can efficiently integrate multi-study single-cell datasets, thereby providing broad opportunities to tackle challenges 
 emerging from noisy resources.
 
-![](./Figure1.jpg)
-
+![](./Figure1.png)
 
 ## Getting started
 ### data preparation
